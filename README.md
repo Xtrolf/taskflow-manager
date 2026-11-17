@@ -3,7 +3,7 @@
 A responsive browser-based task board built with semantic HTML, CSS and vanilla JavaScript.
 
 ## Live demo
-https://aditya-taskflow-standalone.vercel.app
+https://aditya-taskflow-manager.vercel.app
 
 ## Features
 - Create, complete and delete tasks
